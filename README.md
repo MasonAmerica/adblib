@@ -1,3 +1,9 @@
+it's fork from https://github.com/tananaev/adblib
+fixed sync on close.
+
+after build execute
+cp build/libs/adblib-1.4.jar <DIR>/mason-core-apps/libs/
+
 # ADB Library - adblib
 
 ## Overview
