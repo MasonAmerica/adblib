@@ -1,6 +1,4 @@
-package com.tananaev.adblib;
-
-import org.junit.Test;
+package com.bymason.adblib;
 
 import javax.xml.bind.DatatypeConverter;
 import java.net.Socket;

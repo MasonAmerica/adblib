@@ -1,4 +1,4 @@
-package com.tananaev.adblib;
+package com.bymason.adblib;
 
 import org.junit.*;
 

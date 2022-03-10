@@ -1,4 +1,4 @@
-package com.tananaev.adblib;
+package com.bymason.adblib;
 
 /**
  * This interface specifies the required functions for AdbCrypto to

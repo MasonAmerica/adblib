@@ -1,4 +1,4 @@
-package com.tananaev.adblib;
+package com.bymason.adblib;
 
 import java.io.Closeable;
 import java.io.IOException;

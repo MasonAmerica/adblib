@@ -1,4 +1,4 @@
-package com.tananaev.adblib;
+package com.bymason.adblib;
 
 /**
  * Thrown when the peer rejects our initial authentication attempt,

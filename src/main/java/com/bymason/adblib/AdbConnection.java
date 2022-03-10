@@ -1,4 +1,4 @@
-package com.tananaev.adblib;
+package com.bymason.adblib;
 
 import java.io.Closeable;
 import java.io.IOException;
@@ -75,7 +75,7 @@ public class AdbConnection implements Closeable {
     /**
      * An initialized ADB crypto object that contains a key pair.
      */
-    private volatile com.tananaev.adblib.AdbCrypto crypto;
+    private volatile AdbCrypto crypto;
 
     /**
      * Specifies whether this connection has already sent a signed token.
